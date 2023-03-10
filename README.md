@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **janudhasashan.07@gmail.com**
 
-- ⚡ Fun fact **Talking good things and appriciate people without considering other's opinion**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janzgunawardena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janzgunawardena" height="30" width="40" /></a>
