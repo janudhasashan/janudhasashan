@@ -1,14 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5616AQF6oYJYzeULWg/profile-displaybackgroundimage-shrink_350_1400/0/1660051276460?e=1683763200&v=beta&t=tBL7MeH6Wss4gJAAeW44qqbLGkNkFdecydo62RgHqK0)
 <h1 align="center">Hi!👋🏽 I'm Janudha Gunawardena</h1>
-<h3 align="center">Software Engineering Undergraduate at University of Westminster</h3>
+<h3 align="center">Associate Systems Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janudhasashan&label=Profile%20views&color=0e75b6&style=flat" alt="janudhasashan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/janzgunawardena" target="blank"><img src="https://img.shields.io/twitter/follow/janzgunawardena?logo=twitter&style=for-the-badge" alt="janzgunawardena" /></a> </p>
-
-- 🔭 I’m currently working on [WheelSup Fitness App](https://github.com/AnudiPerera/WheelSup.git)
 
 - 📫 How to reach me **janudhasashan.07@gmail.com**
 
